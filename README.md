@@ -1,10 +1,6 @@
 ## 👨‍💻 Sobre Mim  
 Sou desenvolvedor júnior, Atuando há 3 anos em *Delphi (Pascal) e SQL Server, trabalhando atualmente em uma indústria metalúrgica em Cuiabá. Cursando Ciência da Computação. Tenho experiência desde 2022, passando por aprendiz, estágio e agora como desenvolvedor efetivado. Meus conhecimentos incluem **desenvolvimento web* com *HTML, CSS e Django, além de linguagens de gerenciamento de banco de dados como **SQL Server, MySQL* e aplicações móveis com *Flutter/Dart*. Busco constantemente melhorar minhas habilidades e contribuir para projetos inovadores.
 
-<p align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=devgui01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
-</p>
-
 ---
 
 ## 🚀 Tecnologias que uso:
