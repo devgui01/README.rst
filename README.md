@@ -7,28 +7,38 @@ I'm always seeking to **improve my skills** and contribute to **innovative proje
 
 ---
 
-## 📊 GitHub Stats & Most Used Languages:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devgui01&show_icons=true&theme=dark" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgui01&layout=compact&theme=dark" width="400px"/>
-</p>
-
----
-
 ## 🚀 Technologies I use:
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>Pascal</strong></td>
+    <td align="center"><strong>SQL Server</strong></td>
+    <td align="center"><strong>JavaScript</strong></td>
+    <td align="center"><strong>HTML</strong></td>
+    <td align="center"><strong>CSS</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pascal.svg/120px-Pascal.svg.png" width="50"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Python</strong></td>
+    <td align="center"><strong>Django</strong></td>
+    <td align="center"><strong>Flutter</strong></td>
+    <td align="center"><strong>Git</strong></td>
+    <td align="center"><strong>GitHub</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></td>
+  </tr>
+</table>
 
 ---
 
