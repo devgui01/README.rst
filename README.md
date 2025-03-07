@@ -16,6 +16,9 @@ I'm always seeking to **improve my skills** and contribute to **innovative proje
     <td align="center"><strong>JavaScript</strong></td>
     <td align="center"><strong>HTML</strong></td>
     <td align="center"><strong>CSS</strong></td>
+    <td rowspan="4" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgui01&layout=compact&theme=dark" width="400px"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pascal.svg/120px-Pascal.svg.png" width="50"/></td>
@@ -39,8 +42,6 @@ I'm always seeking to **improve my skills** and contribute to **innovative proje
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></td>
   </tr>
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgui01&layout=compact&theme=dark" width="400px"/>
 
 ---
 
