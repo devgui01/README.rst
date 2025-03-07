@@ -1,5 +1,5 @@
 ## 👨‍💻 Sobre Mim  
-Sou o atual desenvolvedor de uma metalúrgica, Atuando há 3 anos em **Delphi (Pascal) e SQL Server**, Cursando Ciência da Computação. Tenho experiência desde 2022, passando por aprendiz, estágio e agora como desenvolvedor efetivado. Meus conhecimentos incluem **desenvolvimento web** com **HTML, CSS e Django**, além de linguagens de gerenciamento de banco de dados como **SQL Server, MySQL** e aplicações móveis com **Flutter/Dart**. Busco constantemente melhorar minhas habilidades e contribuir para projetos inovadores.
+I am a current developer at a metalworking company, working for 3 years in **Delphi (Pascal) and SQL Server**, studying Computer Science. I have experience since 2022, as an apprentice, an internship and now as a full-time developer. My knowledge includes **web development** with **HTML, CSS and Django**, as well as database management languages ​​such as **SQL Server, MySQL** and mobile applications with **Flutter/Dart**. I am constantly seeking to improve my skills and contribute to innovative projects.
 
 ---
 
