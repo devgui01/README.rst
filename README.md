@@ -1,5 +1,9 @@
 ## 👨‍💻 About Me  
-I am a current developer at a metalworking company, working for 3 years in **Delphi (Pascal) and SQL Server**, studying Computer Science. I have experience since 2022, as an apprentice, an internship and now as a full-time developer. My knowledge includes **web development** with **HTML, CSS and Django**, as well as database management languages ​​such as **SQL Server, MySQL** and mobile applications with **Flutter/Dart**. I am constantly seeking to improve my skills and contribute to innovative projects.
+I am a current developer at a metalworking company, working for **3 years** in **Delphi (Pascal) and SQL Server**, and studying **Computer Science**. My journey started in **2022** as an apprentice, then an intern, and now a **full-time developer**.  
+
+My expertise includes **web development** with **HTML, CSS, and Django**, as well as **database management** with **SQL Server and MySQL**. I also have experience in **mobile development** with **Flutter/Dart**.  
+
+I'm always seeking to **improve my skills** and contribute to **innovative projects**.  
 
 ---
 
@@ -35,5 +39,3 @@ I am a current developer at a metalworking company, working for 3 years in **Del
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></td>
   </tr>
 </table>
-
----
