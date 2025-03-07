@@ -7,15 +7,12 @@ I'm always seeking to **improve my skills** and contribute to **innovative proje
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats & Most Used Languages:
 
-<img src="https://github-readme-stats.vercel.app/api?username=devgui01&show_icons=true&theme=dark" width="400px"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgui01&layout=compact&theme=dark" width="400px"/>
----
-
-## 👨‍💻 Most Used Languages:
-a
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" width="400px"/>
+</p>
 
 ---
 
