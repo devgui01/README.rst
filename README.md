@@ -40,6 +40,8 @@ I'm always seeking to **improve my skills** and contribute to **innovative proje
   </tr>
 </table>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgui01&layout=compact&theme=dark" width="400px"/>
+
 ---
 
 <p align="center">
