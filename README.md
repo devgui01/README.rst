@@ -46,6 +46,10 @@ I'm always seeking to **improve my skills** and contribute to **innovative proje
 ---
 
 <p align="center">
-  <a href="mailto:guilhermekauamt01@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/guilherme-kauan-104546245/)/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:guilhermekauamt01@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-kauan-104546245/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
